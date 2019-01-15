@@ -1,0 +1,41 @@
+/*
+* Linda Walsh
+* December 21, 2018
+* Your Cause
+*/
+
+/* The universal selector */
+
+* { margin: 0;
+    padding: 0;
+
+}
+
+/* Body attributes here */
+
+body {
+    background-color: lightpink;
+    width: 90%; margin: auto;
+    
+    
+}
+
+.mainheading { text-align: center;
+               font-family: "Marker Felt", Fantasy;
+               font-size: 80px;
+               font-variant: small-caps;
+               color: red;}
+header { background-color: black;}
+.subheading {text-align: center;
+             font-family: Monaco; margin-top: 30px;}
+#logo { border: 10px dotted red; margin-top:30px; margin-bottom: 30px;}
+.quote { font-size: 95%; margin-top: 20px;}
+.ceremony { text-decoration: underline;
+            font-family: "marker Felt";}
+#medal {height: 298px; border: 10px dotted red; margin-top: 30px; margin-bottom: 30px;}
+#mrlilly {height:298px; border: 10px dotted red; margin-top: 30px; margin-bottom: 30px;}
+#speech {height: 298px; border: 10px dotted red; margin-top: 30px; margin-bottom:30px;}
+.c2010 {margin-top: 20px;}
+#excitment {height: 298px; float: right; border: 10px dotted red; margin-top: 30px; margin-bottom: 30px; }
+#lilly { float: right; border: 10px dotted red; margin-top: 30px; margin-bottom: 30px; }
+#thismaterial { color: dimgray; font-size: 15px; float: right;}
